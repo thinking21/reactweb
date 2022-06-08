@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ms+Madi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mea+Culpa&display=swap');
+
+.n-names{
+    font-size: 1.8rem;
+    font-weight: bold;
+    font-family: 'Mea Culpa', cursive;
+    color: #656967;
+    margin-bottom: 10px;
+}
+
+
+@media (max-height: 800px){
+    footer{
+        position: static;
+    }
+}
+
+.footer-distributed{
+    background-color: #2d2a30;
+    box-sizing: border-box;
+    text-align: left;
+    font: bold 16px sans-serif;
+    padding: 1px 50px 60px 50px;
+    margin-top: 80px;
+}
+
+.footer-distributed .footer-left, .footer-distributed .footer-center, .footer-distributed .footer-right{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.footer-distributed .footer-left{
+    width: 30%;
+}
+
+.footer-distributed .footer-links{
+    color: #92999f;
+    margin: 0 20px 0 12px;
+}
+
+.footer-distributed .footer-links a{
+    display: inline-block;
+    line-height: 1.8;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s ease;
+}
+
+.footer-distributed .footer-links a:hover{
+    color: white;
+    transform: scale(1.05);
+}
+
+.footer-distributed .footer-center{
+    width: 35%;
+}
+
+.footer-distributed .footer-center a{
+    color: #656967;
+    font-size: 25px;
+    text-align: center;
+    line-height: 42px;
+    margin: 10px 15px;
+    vertical-align: middle;
+    text-decoration: none;
+}
+
+.footer-distributed .footer-center p{
+    display: inline-block;
+    color: #92999f;
+    vertical-align: middle;
+    margin: 0;
+}
+
+.footer-distributed .footer-center p span{
+    display: block;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 2;
+}
+
+.footer-distributed .footer-right{
+    width: 30%;
+}
+
+.footer-distributed .love{
+    line-height: 20px;
+    color: #92999f;
+    font-size: 13px;
+    font-weight: normal;
+    margin: 0;
+}
+
+.footer-distributed .love span{
+    display: block;
+    color: #656967;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.copy{
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: -50px;
+    color: #92999f;
+}
+
+@media(max-width: 880px){
+    .footer-distributed .footer-left, .footer-distributed .footer-center, .footer-distributed .footer-right, .copy{
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer-distributed .footer-center i{
+        margin-left: 0;
+    }
+}
+
+

@@ -1,0 +1,254 @@
+.about{
+    display: flex;
+    height: 77vh;
+    margin-top: 6rem;
+}
+
+.i-lefta{
+    display: flex;
+    position: relative;
+    flex: 0.9;
+    flex-direction: column;
+    gap: 2rem;
+    margin-left: 100px;
+}
+
+.i-rightg{
+    flex: 1;
+}
+
+.nameq{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-weight: 700;
+    font-size: 32px;
+    color: #555D59;
+}
+
+.namesq{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-weight: 700;
+    font-size: 32px;
+    position: absolute;
+    margin-top: -15px;
+    color: #555D59;
+}
+
+.typingsq{
+    color: #9e9ea1;
+    font-size: 17px;
+    font-family: 'Cabin', cursive;
+    position: absolute;
+    padding-top: 30px;
+}
+
+.nonsq{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    align-items: center;
+    margin-top: 70px;
+    position: absolute;
+    padding-right: 100px;
+    line-height: 1.8rem;
+    color: #555D59;
+}
+
+.buttones{
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+    border-radius: 5px;
+    display: inline-block;
+    white-space: nowrap;
+    background: rgb(132, 31, 3);
+    border: none;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    text-align: center;
+    width: 12rem;
+    height: 2.7rem;
+    cursor: pointer;
+    position: absolute;
+    margin-top: 290px;
+}
+
+.buttones:hover{
+    transform: scale(1.05);
+}
+
+.img{
+    cursor: pointer;
+    width: 360px;
+    height: 352px;
+    background-image: url("../../img/IMG_20220312_221236_006.jpg");
+    background-size: cover;
+    -webkit-mask: url("../../img/pngwings.png");
+    -webkit-mask-size: 100%;
+    margin-left: 50px;
+}
+
+@media (max-width: 1324px){
+    .img{
+        width: 310px;
+        height: 306px;
+    }
+}
+
+@media(max-width: 1284px){
+    .buttones{
+        margin-top: 290px;
+        width: 11rem;
+    }
+}
+
+@media(max-width: 1254px){
+    .buttones{
+        margin-top: 310px;
+    }
+    .img{
+        width: 290px;
+        height: 284px;
+    }
+}
+
+@media(max-width: 1184px){
+    .buttones{
+        margin-top: 380px;
+        width: 10rem;
+    }
+}
+@media(max-width: 1000px){
+    .buttones{
+        margin-top: 400px;
+    }
+}
+
+@media(max-width: 920px){
+    .about{
+        display: flex;
+        flex-direction: column;
+    }
+    .i-lefta{
+        margin-top: -50px;
+    }
+    .i-rightg{
+        margin-left: 150px;
+        margin-top: 20px;
+    }
+
+    .buttones{
+        margin-top: 250px;
+    }
+}
+
+@media(max-width: 860px){
+    .buttones{
+        margin-top: 280px;
+    }
+}
+
+@media(max-width: 800px){
+    .img{
+        display: none;
+     }
+     .i-rightg{
+         margin-top: 120px;
+         margin-left: 50px;
+     }
+}
+
+@media(max-width: 650px){
+    .buttones{
+        margin-top: 320px;
+    }
+}
+
+@media(max-width: 600px){
+    .buttones{
+        margin-top: 335px;
+    }
+    .i-rightg{
+        margin-left: 80px;
+    }
+}
+
+@media(max-width: 620px){
+    .buttones{
+        width: 8rem;
+    }
+    .nameq{
+        font-size: 25px;
+    }
+    .namesq{
+        font-size: 25px;
+    }
+}
+
+@media(max-width: 580px){
+    .buttones{
+        width: 8rem;
+        margin-top: 365px;
+    }
+}
+
+@media(max-width: 560px){
+    .buttones{
+        width: 8rem;
+        margin-top: 385px;
+    }
+}
+
+@media(max-width: 520px){
+    .buttones{
+        width: 8rem;
+        margin-top: 425px;
+    }
+}
+
+@media(max-width: 420px){
+    .about{
+        margin-top: -100px;
+    }
+    .buttones{
+        width: 8rem;
+        margin-top: 585px;
+    }
+}
+
+@media(max-width: 390px){
+    .buttones{
+        width: 8rem;
+        margin-top: 595px;
+    }
+}
+
+@media(max-width: 380px){
+    .i-rightg{
+        margin-top: 570px;
+    }
+    .nameq{
+        font-size: 18px;
+    }
+    .namesq{
+        margin-top: -6px;
+        font-size: 18px;
+    }
+    .typingsq{
+        font-size: 12px;
+    }
+
+    .nonsq{
+        font-size: 10px;
+        line-height: 18px;
+    }
+
+    .buttones{
+        font-size: 10px;
+        margin-top: 310px;
+        width: 6rem;
+        height: 2rem;
+    }
+    
+    
+}

@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+.progress{
+    background-color: #E0DAD6;
+    width: 100%;
+    height: 260px;
+    text-align: center;
+}
+
+.each{
+    padding-top: 70px;
+    font-family: 'Courgette', cursive;
+    color: #555D59;
+    font-size: 50px;
+}
+
+.little{
+color: #d2b48c;
+}
+
+.up{
+    font-family: 'Courgette', cursive;
+    color: #555D59;
+    font-size: 50px;
+}
+
+@media(max-width: 1000px){
+    .progress{
+        height: 200px;
+    }
+    .each{
+        font-size: 30px;
+    }
+    .up{
+        font-size: 30px;
+    }
+}
+
+@media(max-width: 700px){
+    .each{
+        font-size: 22px;
+    }
+    .up{
+        font-size: 22px;
+    }
+}
+
+@media(max-width: 400px){
+    .progress{
+        height: 160px;
+    }
+    .each{
+        font-size: 16px;
+    }
+    .up{
+        font-size: 16px;
+    }
+}
