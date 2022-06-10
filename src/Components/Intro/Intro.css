@@ -192,6 +192,9 @@
     .shape{
         display: none;
     }
+    .top-img{
+        display: none;
+    }
 }
 @media (max-width: 1124px){
     .about_me{
@@ -301,6 +304,16 @@
     }
     .shape{
         display: none;
+    }
+}
+
+
+@media (max-width: 400px){
+    .about_me{
+        margin-left: -50px;
+    }
+    .buttons{
+        margin-left: 110px;
     }
 }
 

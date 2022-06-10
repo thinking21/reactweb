@@ -429,8 +429,8 @@ p.by a{
 
 @media(max-width: 420px){
     .gon{
-        margin-top: 380px;
-        margin-bottom: 100px;
+        margin-top: 420px;
+        margin-bottom: -150px;
     }
     .namee{
         font-size: 18px;
@@ -533,12 +533,12 @@ p.by a{
     }
 }
 
-@media(max-width: 375px){
+@media(max-width: 395px){
     .flex-container{
-        margin-top: -70px;
+        margin-top: -90px;
     }
     .gon{
-        margin-top: 460px;
+        margin-top: 520px;
         margin-bottom: -1px;
     }
 }

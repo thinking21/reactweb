@@ -201,7 +201,7 @@ a{
         position: fixed;
         top: 7vh;
         right: 0;
-        width: 50%;
+        width: 80%;
         height: 93vh;
         flex-direction: column;
         background-color: white;
@@ -214,6 +214,33 @@ a{
     .nav_toggler:hover div:nth-child(2){
         transform: translateX(10px);
         background-color: rgb(132, 31, 3);
+    }
+}
+@media screen and (max-width: 420px){
+    .ty{
+        margin-top: 30px;
+        margin-right: 280px;
+    }
+    .tys{
+        margin-top: -30px;
+        margin-right: 280px;
+    }
+    .tyu{
+        margin-top: -30px;
+        margin-right: 280px;
+    }
+    .tyi{
+        margin-top: -30px;
+        margin-right: 280px;
+    }
+    .tyo{
+        margin-top: -30px;
+        margin-right: 280px;
+    }
+    .typ{
+        margin-top: -30px;
+        margin-bottom: 50px;
+        margin-right: 280px;
     }
 }
 

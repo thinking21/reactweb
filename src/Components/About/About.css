@@ -208,7 +208,7 @@
 
 @media(max-width: 420px){
     .about{
-        margin-top: -100px;
+        margin-top: -1px;
     }
     .buttones{
         width: 8rem;

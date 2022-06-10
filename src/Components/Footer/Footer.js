@@ -1,8 +1,5 @@
 import React, {useEffect} from 'react'
 import './Footer.css'
-import {BiMap} from 'react-icons/bi'
-import {BsTelephone} from 'react-icons/bs'
-import {BiEnvelope} from 'react-icons/bi'
 import {FaHeart} from 'react-icons/fa'
 import { motion, useAnimation } from 'framer-motion';
 import {useInView} from "react-intersection-observer";
