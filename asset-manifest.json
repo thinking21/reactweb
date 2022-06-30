@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactweb/static/css/main.dbf6e11c.css",
-    "main.js": "/reactweb/static/js/main.b2770923.js",
+    "main.js": "/reactweb/static/js/main.5cef6b2f.js",
     "static/js/787.28cb0dcd.chunk.js": "/reactweb/static/js/787.28cb0dcd.chunk.js",
     "static/media/pngwings.png": "/reactweb/static/media/pngwings.47acdec374fe7bf7482b.png",
     "static/media/img-2.jpeg": "/reactweb/static/media/img-2.ac31b4694b5700b234f5.jpeg",
@@ -16,7 +16,7 @@
     "static/media/mysql.png": "/reactweb/static/media/mysql.c10b5bc47b47f99e1ff1.png",
     "static/media/bib.jpeg": "/reactweb/static/media/bib.eecba456fb84597490ed.jpeg",
     "static/media/banner-bg.jpg": "/reactweb/static/media/banner-bg.5b3c21fa6f4c65e3b410.jpg",
-    "static/media/Saithukha_myatthu.pdf": "/reactweb/static/media/Saithukha_myatthu.1853fa9de231625e8c6a.pdf",
+    "static/media/Saithukha_myatthu.pdf": "/reactweb/static/media/Saithukha_myatthu.4060772c117beaa9449f.pdf",
     "static/media/zxc.avif": "/reactweb/static/media/zxc.190b0debb89fa0af58bf.avif",
     "static/media/spring.png": "/reactweb/static/media/spring.1493cea40dd5502e5ac7.png",
     "static/media/html.png": "/reactweb/static/media/html.1d7b133e22ffe4829da6.png",
@@ -32,11 +32,11 @@
     "static/media/java.png": "/reactweb/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/reactweb/index.html",
     "main.dbf6e11c.css.map": "/reactweb/static/css/main.dbf6e11c.css.map",
-    "main.b2770923.js.map": "/reactweb/static/js/main.b2770923.js.map",
+    "main.5cef6b2f.js.map": "/reactweb/static/js/main.5cef6b2f.js.map",
     "787.28cb0dcd.chunk.js.map": "/reactweb/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dbf6e11c.css",
-    "static/js/main.b2770923.js"
+    "static/js/main.5cef6b2f.js"
   ]
 }
