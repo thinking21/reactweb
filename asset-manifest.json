@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactweb/static/css/main.8122f762.css",
+    "main.css": "/reactweb/static/css/main.2b4a0bbd.css",
     "main.js": "/reactweb/static/js/main.76d044a6.js",
     "static/js/787.28cb0dcd.chunk.js": "/reactweb/static/js/787.28cb0dcd.chunk.js",
     "static/media/pngwings.png": "/reactweb/static/media/pngwings.47acdec374fe7bf7482b.png",
@@ -22,6 +22,7 @@
     "static/media/html.png": "/reactweb/static/media/html.1d7b133e22ffe4829da6.png",
     "static/media/mongodb.png": "/reactweb/static/media/mongodb.c9f0a5e798fe10267adb.png",
     "static/media/355.jpg": "/reactweb/static/media/355.8f4a2e3abc84509f3ff9.jpg",
+    "static/media/IMG_20220312_221236_006.jpg": "/reactweb/static/media/IMG_20220312_221236_006.3ad0ce7b8f4be2bee37d.jpg",
     "static/media/css.png": "/reactweb/static/media/css.9f33c557b92e4e2e1cc8.png",
     "static/media/javaee.png": "/reactweb/static/media/javaee.596f01214b63d88257d5.png",
     "static/media/aws.png": "/reactweb/static/media/aws.1fa090f73350593f1959.png",
@@ -30,12 +31,12 @@
     "static/media/jquery.png": "/reactweb/static/media/jquery.347f93d8463ec15aa303.png",
     "static/media/java.png": "/reactweb/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/reactweb/index.html",
-    "main.8122f762.css.map": "/reactweb/static/css/main.8122f762.css.map",
+    "main.2b4a0bbd.css.map": "/reactweb/static/css/main.2b4a0bbd.css.map",
     "main.76d044a6.js.map": "/reactweb/static/js/main.76d044a6.js.map",
     "787.28cb0dcd.chunk.js.map": "/reactweb/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8122f762.css",
+    "static/css/main.2b4a0bbd.css",
     "static/js/main.76d044a6.js"
   ]
 }
