@@ -1,0 +1,17 @@
+.floatingdiv{
+    justify-content: space-around;
+    display: flex;
+    border-radius: 50%;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    margin-top: -90px;
+    margin-left: 30px;
+    position: absolute;
+}
+
+.imagee{
+    width: 66px;
+    height: 66px;
+    margin-top: -1px;
+}
