@@ -1,28 +1,27 @@
 {
   "files": {
-    "main.css": "/reactweb/static/css/main.dbf6e11c.css",
-    "main.js": "/reactweb/static/js/main.f905d089.js",
+    "main.css": "/reactweb/static/css/main.8122f762.css",
+    "main.js": "/reactweb/static/js/main.76d044a6.js",
     "static/js/787.28cb0dcd.chunk.js": "/reactweb/static/js/787.28cb0dcd.chunk.js",
     "static/media/pngwings.png": "/reactweb/static/media/pngwings.47acdec374fe7bf7482b.png",
     "static/media/img-2.jpeg": "/reactweb/static/media/img-2.ac31b4694b5700b234f5.jpeg",
     "static/media/img-3.jpeg": "/reactweb/static/media/img-3.3cee55b5f6741722c626.jpeg",
     "static/media/img-1.jpeg": "/reactweb/static/media/img-1.c898e2408fba144be6e6.jpeg",
     "static/media/postgresql.png": "/reactweb/static/media/postgresql.643d40d11f764b9df1fe.png",
-    "static/media/IMG_20220501_134506.jpg": "/reactweb/static/media/IMG_20220501_134506.04f650779690ab1f3759.jpg",
     "static/media/nodejs.png": "/reactweb/static/media/nodejs.290f630040630c5948b6.png",
     "static/media/img-5.jpeg": "/reactweb/static/media/img-5.ae2db8caa5caad981ce5.jpeg",
     "static/media/img-6.jpeg": "/reactweb/static/media/img-6.7d2a53c203a877ad107b.jpeg",
     "static/media/img-4.jpeg": "/reactweb/static/media/img-4.2041a2d309e11d51ac6c.jpeg",
     "static/media/mysql.png": "/reactweb/static/media/mysql.c10b5bc47b47f99e1ff1.png",
     "static/media/bib.jpeg": "/reactweb/static/media/bib.eecba456fb84597490ed.jpeg",
+    "static/media/tree.jpeg": "/reactweb/static/media/tree.aafc9ce3a30b7af110c4.jpeg",
     "static/media/banner-bg.jpg": "/reactweb/static/media/banner-bg.5b3c21fa6f4c65e3b410.jpg",
-    "static/media/Saithukhamyatthu.pdf": "/reactweb/static/media/Saithukhamyatthu.4060772c117beaa9449f.pdf",
+    "static/media/Saithukha_myatthu.pdf": "/reactweb/static/media/Saithukha_myatthu.1853fa9de231625e8c6a.pdf",
     "static/media/zxc.avif": "/reactweb/static/media/zxc.190b0debb89fa0af58bf.avif",
     "static/media/spring.png": "/reactweb/static/media/spring.1493cea40dd5502e5ac7.png",
     "static/media/html.png": "/reactweb/static/media/html.1d7b133e22ffe4829da6.png",
     "static/media/mongodb.png": "/reactweb/static/media/mongodb.c9f0a5e798fe10267adb.png",
     "static/media/355.jpg": "/reactweb/static/media/355.8f4a2e3abc84509f3ff9.jpg",
-    "static/media/IMG_20220312_221236_006.jpg": "/reactweb/static/media/IMG_20220312_221236_006.3ad0ce7b8f4be2bee37d.jpg",
     "static/media/css.png": "/reactweb/static/media/css.9f33c557b92e4e2e1cc8.png",
     "static/media/javaee.png": "/reactweb/static/media/javaee.596f01214b63d88257d5.png",
     "static/media/aws.png": "/reactweb/static/media/aws.1fa090f73350593f1959.png",
@@ -31,12 +30,12 @@
     "static/media/jquery.png": "/reactweb/static/media/jquery.347f93d8463ec15aa303.png",
     "static/media/java.png": "/reactweb/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/reactweb/index.html",
-    "main.dbf6e11c.css.map": "/reactweb/static/css/main.dbf6e11c.css.map",
-    "main.f905d089.js.map": "/reactweb/static/js/main.f905d089.js.map",
+    "main.8122f762.css.map": "/reactweb/static/css/main.8122f762.css.map",
+    "main.76d044a6.js.map": "/reactweb/static/js/main.76d044a6.js.map",
     "787.28cb0dcd.chunk.js.map": "/reactweb/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbf6e11c.css",
-    "static/js/main.f905d089.js"
+    "static/css/main.8122f762.css",
+    "static/js/main.76d044a6.js"
   ]
 }
